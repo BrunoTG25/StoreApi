@@ -1,0 +1,13 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+
+# Archivos de entorno y configuración
+*.log
+*.db
+.env
